@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>umlet-wrapper</artifactId>
-  <version>13.3.0</version>
+  <version>13.3.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>UMLet Wrapper</name>
@@ -24,7 +24,7 @@
     <connection>scm:git:git://github.com/ykryshchuk/umlet-wrapper.git</connection>
     <developerConnection>scm:git:git@github.com:ykryshchuk/umlet-wrapper.git</developerConnection>
     <url>git@github.com:ykryshchuk/umlet-wrapper.git</url>
-    <tag>umlet-wrapper-13.3.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
